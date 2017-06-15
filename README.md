@@ -1,0 +1,1 @@
+# a simple TypeAhead widget which creates suggestions as soon as someone begins typing into a text box, using Angular JS. The data is served using a JSON file.
